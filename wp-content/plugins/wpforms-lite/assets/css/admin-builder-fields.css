@@ -546,7 +546,7 @@ Admin Form Builder - Fields panel
 -------------------------------------------------------------- */
 
 #wpforms-panel-fields .no-fields-preview {
-	background: url(/https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png) no-repeat;
+	background: url(/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png) no-repeat;
 	background-size: 148px 140px;
 	background-position: 50px 40px;
 	text-align: center;
