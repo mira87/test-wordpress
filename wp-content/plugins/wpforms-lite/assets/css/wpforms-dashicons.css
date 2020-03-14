@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'WPForms';
-  src: url('http://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot');
-  src: url('http://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot#iefix') format('embedded-opentype'),
-       url('http://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff2') format('woff2'),
-       url('http://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff') format('woff'),
-       url('http://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.ttf') format('truetype'),
-       url('http://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.svg#wpforms') format('svg');
+  src: url('https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot');
+  src: url('https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.eot#iefix') format('embedded-opentype'),
+       url('https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff2') format('woff2'),
+       url('https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.woff') format('woff'),
+       url('https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.ttf') format('truetype'),
+       url('https://mira87.github.io/test-wordpress/wp-content/plugins/wpforms-lite/assets/fonts/wpforms.svg#wpforms') format('svg');
   font-weight: normal;
   font-style: normal;
 }
